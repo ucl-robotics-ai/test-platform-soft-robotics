@@ -1,0 +1,91 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="3788709119" file="C:\Users\jww\Desktop\mainapp\testing app.prj" location="C:\Users\jww\Desktop\mainapp" name="testing app" target="target.mlapps" target-name="Package App">
+    <param.appname>testing app</param.appname>
+    <param.authnamewatermark />
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot>C:\Users\jww\AppData\Local\Temp\tpb2cd8767_f439_4d2f_be81_ec057f6e1127.png</param.screenshot>
+    <param.version>2.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>C:\Users\jww\Desktop</param.output>
+    <param.guid>effcfb0a-0805-409a-9932-bea4e8671155</param.guid>
+    <unset>
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\mainapp.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\AuroraDriver.m</file>
+      <file>${PROJECT_ROOT}\ComputeUDPResponsePacketSize.m</file>
+      <file>${PROJECT_ROOT}\constant_wave.m</file>
+      <file>${PROJECT_ROOT}\GetFTsensorData.m</file>
+      <file>${PROJECT_ROOT}\getVelocity5Points.m</file>
+      <file>${PROJECT_ROOT}\getVelocitySimplified.m</file>
+      <file>${PROJECT_ROOT}\initialise_force_sensor.m</file>
+      <file>${PROJECT_ROOT}\initialization.m</file>
+      <file>${PROJECT_ROOT}\input1.mlapp</file>
+      <file>${PROJECT_ROOT}\input2.mlapp</file>
+      <file>${PROJECT_ROOT}\input3.mlapp</file>
+      <file>${PROJECT_ROOT}\ParseUDPPacket.m</file>
+      <file>${PROJECT_ROOT}\PortHandle.m</file>
+      <file>${PROJECT_ROOT}\pressure_array.mat</file>
+      <file>${PROJECT_ROOT}\ReceivedUDPPacketCHECKSUM.m</file>
+      <file>${PROJECT_ROOT}\send_input_force.m</file>
+      <file>${PROJECT_ROOT}\send_input_position.m</file>
+      <file>${PROJECT_ROOT}\send_input_pressure.m</file>
+      <file>${PROJECT_ROOT}\SendUDPcommand.m</file>
+      <file>${PROJECT_ROOT}\SetCommandCheckSum.m</file>
+      <file>${PROJECT_ROOT}\setting1.m</file>
+      <file>${PROJECT_ROOT}\setting2.m</file>
+      <file>${PROJECT_ROOT}\setting3.m</file>
+      <file>${PROJECT_ROOT}\sin_wave.m</file>
+      <file>${PROJECT_ROOT}\step_wave.m</file>
+      <file>${PROJECT_ROOT}\triangular_wave.m</file>
+    </fileset.depfun>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\logo.png</file>
+    </fileset.resources>
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\jww" name="Desktop" optional="false">C:\Users\jww\Desktop</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2019a</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

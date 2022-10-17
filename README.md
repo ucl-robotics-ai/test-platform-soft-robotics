@@ -1,2 +1,2 @@
-# test_platform_soft_robotics
-This repository includes the hardware design and application examples for a general phsical platform for evaluating the performances of soft penumatic robots.
+# Repository-for-RoboSoft
+This repository incudes the CAD files for the platform, the designed GUI and one example for the inverse kinematics implementation using Simulink.
