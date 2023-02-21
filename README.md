@@ -29,6 +29,11 @@ Main components:
 
 [LM358AN (TI)](https://www.ti.com/lit/ds/symlink/lm158-n.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1676935629392&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm158-n)
 
+Apart from using RC circuit to achieve DAC conversion, other solutions could be: 
+
+1. [Adafruit MCP4728](https://www.adafruit.com/product/4470)
+2. [MP4725](https://www.sparkfun.com/datasheets/BreakoutBoards/MCP4725.pdf)
+
 ## GUI Design:
 The design GUI is presented here. 
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_interface.png)
