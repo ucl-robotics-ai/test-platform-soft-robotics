@@ -33,6 +33,14 @@ Steps:
 
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_page1.png)
 
-## Position tracking
-The desired and real pressure can be collected and saved. In addition, the position and bending angle of the robot can also be visualised and saved. 
+## Position Tracking
+The desired and real pressure can be collected and saved. In addition, the position and bending angle of the robot can also be visualised and saved. The details are as shown: 
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_page2.png)
+
+## Force Identification
+The desired and real pressure can be collected and saved. In addition, the 6-DOF force/torque can also be visualised and saved. The details are as shown: 
+![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_page3.png)
+
+## Stiffness Identification
+The robot is driven to a certain direction using the pressure setting page. Applying certain force, the variation of the position can be used to calculate the stiffness along different directions.  The details are as shown: 
+![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_page4.png)
