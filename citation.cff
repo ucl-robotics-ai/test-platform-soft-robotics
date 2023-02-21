@@ -10,19 +10,3 @@ version: 1.0.0
 doi: DOI: 10.5281/zenodo.7660707
 date-released: 2023-2-21
 url: "https://github.com/ucl-robotics-ai/test-platform-soft-robotics.git"
-preferred-citation:
-  type: article
-  authors:
-- family-names: "Shi"
-  given-names: "Jialei"
-- family-names: "Gaozhang"
-  given-names: "Wenlong"
-  doi: ""
-  Conference: "Journal Title"
-  month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
-  title: "My awesome research software"
-  issue: 1
-  volume: 1
-  year: 2021
