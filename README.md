@@ -41,6 +41,8 @@ Main components:
 
 [Circuit breaker (Allen Bradley 1492 1492SPM MCB)](https://uk.rs-online.com/web/p/mcbs/1251510)
 
+[Plug socket (CLA3356)](https://uk.rs-online.com/web/p/plug-sockets/1752882)
+
 Apart from using RC circuits to achieve DAC conversion, other solutions could be: 
 
 1. [Adafruit MCP4728](https://www.adafruit.com/product/4470)
