@@ -62,7 +62,7 @@ Other useful links are:
 [Arduino Support from Simulink](https://www.mathworks.com/hardware-support/arduino-simulink.html)
 
 ## GUI Design:
-The design GUI is presented here. 
+The GUI overview is presented here, and details can be found in folder /GUI_toolbox.
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_interface.png)
 
 ## Citation: 
