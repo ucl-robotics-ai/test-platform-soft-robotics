@@ -41,6 +41,10 @@ Other useful links are:
 
 [MATLAB DAQ Toolbox](https://www.mathworks.com/products/data-acquisition.html), to connect the USB-6341 to the MATLAB.
 
+[Arduino Support from MATLAB](https://www.mathworks.com/hardware-support/arduino-matlab.html)
+
+[Arduino Support from Simulink](https://www.mathworks.com/hardware-support/arduino-simulink.html)
+
 ## GUI Design:
 The design GUI is presented here. 
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_interface.png)
