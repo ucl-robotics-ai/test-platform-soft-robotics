@@ -16,6 +16,9 @@ Main components:
 
 [Pressure regulators (Camozzi K8P)](http://catalogue.camozzi.com/CATALOGUES/CCC-GENCAT/00153/PDF/ENG.6.2.10.pdf)
 
+[Tracking system (NDI, Aurora)](https://www.ndigital.com/electromagnetic-tracking-technology/aurora/)
+
+
 ## GUI Design:
 The design GUI is presented here. 
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_interface.png)
