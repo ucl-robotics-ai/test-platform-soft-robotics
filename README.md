@@ -1,7 +1,7 @@
 # Repository-for-a-soft-robotics-evaluation-platform
 
 This repository aims to provide a solution for designing a characterisation and control platform for pneumatic-driven soft robotic system. The platform design follows
-a top-down approach, starting from the analysis of the required functionalities of a platform to providing a specific design. Please note the design variety exists, only one solution is provided here. We aim to provide some insights and inspirations of designing a platform, which might be useful to the soft robots community, especially for new starters. We are welcoming to further comments/questions, and your contributions to buid a more general design framework. 
+a top-down approach, starting from the analysis of the required functionalities of a platform to providing a specific design. Please note the design variety exists, only one solution is provided here. We aim to provide some insights and inspirations of designing a platform, which might be useful to the soft robots community, especially for new starters. We are welcoming to further comments/questions, and your contributions/solutions to buid a more general design framework. 
 
 This repository incudes the CAD files for the platform, the designed GUI and the Simulink example for the inverse kinematics implementation using MATLAB/Simulink.
 
