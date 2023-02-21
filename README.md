@@ -36,6 +36,11 @@ Apart from using RC circuits to achieve DAC conversion, other solutions could be
 1. [Adafruit MCP4728](https://www.adafruit.com/product/4470)
 2. [MP4725](https://www.sparkfun.com/datasheets/BreakoutBoards/MCP4725.pdf)
 
+
+Other useful links are: 
+
+[MATLAB DAQ Toolbox](https://www.mathworks.com/products/data-acquisition.html), to connect the USB-6341 to the MATLAB.
+
 ## GUI Design:
 The design GUI is presented here. 
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_interface.png)
