@@ -19,6 +19,8 @@ Main components:
 [Tracking system (NDI, Aurora)](https://www.ndigital.com/electromagnetic-tracking-technology/aurora/)
 
 
+
+
 ## GUI Design:
 The design GUI is presented here. 
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_interface.png)
