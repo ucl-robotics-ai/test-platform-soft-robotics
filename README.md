@@ -24,3 +24,10 @@ Main components:
 ## GUI Design:
 The design GUI is presented here. 
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/GUI_interface.png)
+
+## Citation: 
+
+The work can be cited as follows: 
+
+J. Shi, W. Gaozhang, H. Jin, G. Shi, and H. Wurdemann. "Characterisation and control platform for pneumatically driven soft robots: Design
+and applications". International Conference on Soft Robotics (RoboSoft), 2023.
