@@ -7,22 +7,3 @@ The overview of the plaform is presented here:
 
 
 
-
-
-
-
-
-
-The work can cited as follows:
-
-
-@inproceedings{shi2023ros,
-  title={Characterisation and control platform for pneumatically driven soft robots: Design and applications},
-  author={Shi, Jialei and Gaozhang, Wenlong and Jin, Hanyu and Shi, Ge and Wurdemann, Helge},
-  booktitle = {2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)},
-  pages={},
-  year={2023},
-  organization={IEEE}
-}
-
-
