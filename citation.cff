@@ -31,10 +31,8 @@ preferred-citation:
     given-names: "Helge"	
   doi: ""
   journal: "Journal Title"
-  month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
+  month: 4
+  start: 0 # First page number
+  end: 0 # Last page number
   title: "My awesome research software"
-  issue: 1
-  volume: 1
-  year: 2021
+  year: 2023
