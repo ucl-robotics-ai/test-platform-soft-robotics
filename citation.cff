@@ -17,7 +17,7 @@ doi: 10.5281/zenodo.7665290
 date-released: 2023-2-22
 url: "https://github.com/ucl-robotics-ai/test-platform-soft-robotics"
 preferred-citation:
-  type: conference-paper
+  type: proceedings
   authors:
   - family-names: "Shi"
     given-names: "Jialei"
