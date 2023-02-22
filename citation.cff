@@ -11,7 +11,6 @@ authors:
     given-names: "Ge"	
   - family-names: "Wurdemann"
     given-names: "Helge"	
-
 title: "Characterisation and control platform for pneumatically driven soft robots: Design and applications"
 version: 1.0.0
 doi: 10.5281/zenodo.7665290
@@ -19,24 +18,4 @@ date-released: 2023-2-22
 url: "https://github.com/ucl-robotics-ai/test-platform-soft-robotics"
 
 
-preferred-citation:
-  type: conference-paper
-  authors:
-  - family-names: "Shi"
-    given-names: "Jialei"
 
-  - family-names: "Gaozhang"
-    given-names: "Wenlong"
-	
-  - family-names: "Jin"
-    given-names: "Hanyu"
-	
-  - family-names: "Shi"
-    given-names: "Ge"
-	
-  - family-names: "Wurdemann"
-    given-names: "Helge"	
-	
-title: "Characterisation and control platform for pneumatically driven soft robots: Design and applications" 
-year: 2023 
-collection-title: "International Conference on Soft Robotics (RoboSoft)"
