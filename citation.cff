@@ -19,7 +19,7 @@ url: "https://github.com/ucl-robotics-ai/test-platform-soft-robotics"
 preferred-citation:
   type: article
   authors:
-   - family-names: "Shi"
+  - family-names: "Shi"
     given-names: "Jialei"
   - family-names: "Gaozhang"
     given-names: "Wenlong"	
