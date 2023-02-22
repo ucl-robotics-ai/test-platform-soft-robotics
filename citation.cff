@@ -3,16 +3,12 @@ message: "If you use this repos, please cite it as below."
 authors:
   - family-names: "Shi"
     given-names: "Jialei"
-
   - family-names: "Gaozhang"
-    given-names: "Wenlong"
-	
+    given-names: "Wenlong"	
   - family-names: "Jin"
-    given-names: "Hanyu"
-	
+    given-names: "Hanyu"	
   - family-names: "Shi"
-    given-names: "Ge"
-	
+    given-names: "Ge"	
   - family-names: "Wurdemann"
     given-names: "Helge"	
 
