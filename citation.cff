@@ -29,11 +29,10 @@ preferred-citation:
     given-names: "Ge"	
   - family-names: "Wurdemann"
     given-names: "Helge"	
-  doi: ""
   title: "Characterisation and control platform for pneumatically driven soft robots: Design and applications"
   collection-title: "IEEE International Conference on Soft Robotics (RoboSoft)"
   month: 4
   start: 0 # First page number
   end: 0 # Last page number
-  title: "My awesome research software"
   year: 2023
+  doi: ""
