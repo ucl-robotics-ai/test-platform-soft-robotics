@@ -11,7 +11,7 @@ The overeiew of the platform is shown:
 
 ![image](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/My_figures/platform.png)
 
-The CAD file of the platform can be referred to [here](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/tree/main/CAD_of_the_platform).
+The CAD file of the platform can be referred to the folder [/CAD_of_the_platform](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/tree/main/CAD_of_the_platform).
 
 ## System Architecture 
 The system architecture is: 
