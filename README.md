@@ -68,7 +68,7 @@ The GUI overview is presented here, and details can be found in folder [/GUI_too
 
 ## Citation: 
 
-The paper is atttached([see the manuscript](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/Paper_manucript/manuscript_FV.pdf)).  The copyright has been tranferred to the IEEE, this work can be cited as follows: 
+The paper is atttached ([see the manuscript](https://github.com/ucl-robotics-ai/test-platform-soft-robotics/blob/main/Paper_manucript/manuscript_FV.pdf)).  The copyright has been tranferred to the IEEE, this work can be cited as follows: 
 
 J. Shi, W. Gaozhang, H. Jin, G. Shi, and H. Wurdemann. "Characterisation and control platform for pneumatically driven soft robots: Design
 and applications". IEEE International Conference on Soft Robotics (RoboSoft), 2023.
