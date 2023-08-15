@@ -52,7 +52,7 @@ Apart from using RC circuits to achieve DAC conversion, other solutions could be
 
 1. [Adafruit MCP4728](https://www.adafruit.com/product/4470)
 2. [MP4725](https://www.sparkfun.com/datasheets/BreakoutBoards/MCP4725.pdf)
-
+3. [LTC2645](https://www.analog.com/media/en/technical-documentation/data-sheets/LTC2645.pdf)
 
 Other useful links are: 
 
